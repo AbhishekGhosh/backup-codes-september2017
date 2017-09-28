@@ -1,0 +1,18 @@
+<style type="text/css">
+.right-floating-ad { float: right; display:inline-block; margin-left: 1cm; margin-bottom: 1cm; width: 336px; height: 280px; }
+@media (max-width:800px) { .right-floating-ad { display:inline-block; margin-left: 0.5cm; margin-bottom: 0.5cm; width: 320px; height: 100px; } }
+@media (max-width:550px) { .right-floating-ad { display: none; } }
+</style>
+<div class="right-floating-ad">
+<span style="margin-bottom: 3px; float: right; display: block; font-size: 12px;">Advertisement</span>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- responsive_box -->
+<ins class="adsbygoogle right-floating-ad"
+     style="display:block"
+     data-ad-client="ca-pub-8996933744651682"
+     data-ad-slot="5609641037"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
