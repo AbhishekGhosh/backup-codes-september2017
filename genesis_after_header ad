@@ -1,0 +1,17 @@
+<?php if ( ! is_404() ) : ?>
+
+<div class="wrap google_ads">
+<span style="margin-bottom: 3px; float: right; display: block; font-size: 12px;">Advertisement</span>
+<style type="text/css">
+.adslot_3 { display:inline-block; width: 728px; height: 90px; }
+@media (max-width:800px) { .adslot_3 { display: none; } }
+</style>
+<!-- responsive_leaderboard -->
+<ins class="adsbygoogle adslot_3"
+   data-ad-client="ca-pub-8996933744651682"
+   data-ad-slot="9184046232"
+   data-ad-format="horizontal"></ins>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+<?php endif; ?>
